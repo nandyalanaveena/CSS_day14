@@ -1,0 +1,65 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.img1,
+.img2,
+.img3,
+.img4,
+.img5,
+.img6,
+.img7,
+.img8,
+.img9,
+.img10,
+.img11,
+.img12 {
+  height: 100vh;
+  width: 100%;
+  border: 2px solid blue;
+  margin: 30px;
+  box-shadow: 3px 3px 30px black;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center center;
+  background-attachment: fixed;
+  margin-left: auto;
+  margin-right: auto;
+}
+.img1 {
+  background-image: url("./image1.png");
+}
+.img2 {
+  background-image: url("./image2.jfif");
+}
+.img3 {
+  background-image: url("./image3.jfif");
+}
+.img4 {
+  background-image: url("./image4.jfif");
+}
+.img5 {
+  background-image: url("./image5.jfif");
+}
+.img6 {
+  background-image: url("./image6.jfif");
+}
+.img7 {
+  background-image: url("./image7.jfif");
+}
+.img8 {
+  background-image: url("./image8.jfif");
+}
+.img9 {
+  background-image: url("./image9.jfif");
+}
+.img10 {
+  background-image: url("./image10.jpg");
+}
+.img11 {
+  background-image: url("./image11.jfif");
+}
+.img12 {
+  background-image: url("./image12.png");
+}
